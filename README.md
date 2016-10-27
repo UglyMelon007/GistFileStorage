@@ -1,2 +1,2 @@
-# GitTestDemo
-这是一个测试文件
+# GistFileStorage
+用来存放Gist中提及的文件
